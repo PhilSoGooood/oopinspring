@@ -1,4 +1,4 @@
-package ch4;
+package ch4.abstractMethod01;
 
 public class 고양이 extends 동물 {
 	void 울어보세요() {
